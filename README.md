@@ -1,3 +1,7 @@
+<p align="center">
+   <img src="python-banner.png" alt="Banner">
+</p>
+
 # curso-em-video-python
 Repositório criado para armazenar exercícios e projetos desenvolvidos durante meus estudos em Python, com o intuito de ver a minha evolução.
 
