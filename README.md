@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="python-banner.png" alt="Banner">
+   <img src="python-exercises-banner.png" alt="Banner">
 </p>
 
 # curso-em-video-python
